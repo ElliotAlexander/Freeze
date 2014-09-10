@@ -1,0 +1,10 @@
+uk\co\ElllzUHC\FreezeV2\Listeners\EntityDamageListener.class
+uk\co\ElllzUHC\FreezeV2\FreezeCommandExecutor.class
+uk\co\ElllzUHC\FreezeV2\commands\ReloadFreeze.class
+uk\co\ElllzUHC\FreezeV2\commands\FrExemptCommand.class
+uk\co\ElllzUHC\FreezeV2\FreezeCommandInterface.class
+uk\co\ElllzUHC\FreezeV2\commands\FreezeCommand.class
+uk\co\ElllzUHC\FreezeV2\Listeners\PlayerMoveListener.class
+uk\co\ElllzUHC\FreezeV2\FreezePlugin.class
+uk\co\ElllzUHC\FreezeV2\Listeners\FoodChangeListener.class
+uk\co\ElllzUHC\FreezeV2\Listeners\BlockBreakListener.class

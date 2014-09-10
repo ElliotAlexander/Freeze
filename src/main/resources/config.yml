@@ -1,0 +1,4 @@
+Delay between effects(Ticks): 100
+PotionEffects:
+  Blindness: 1
+  Slowness: 1

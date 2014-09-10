@@ -1,0 +1,13 @@
+name: Freeze
+version: 1.0
+main: uk.co.ElllzUHC.FreezeV2.FreezePlugin
+commands:
+  frexempt:
+    permission: freeze.exempt
+    usage: /frexempt add/remove/list
+  fr:
+    permission: freeze.main
+  frhelp:
+    permission: freeze.help
+  frreload:
+    permission: freeze.reload
