@@ -8,7 +8,7 @@ import uk.co.ElllzUHC.FreezeV2.FreezeCommandInterface;
  */
 public class FreezeHelpCommand implements FreezeCommandInterface {
 
-    
+
     @Override
     public String getUsage() {
         return null;
